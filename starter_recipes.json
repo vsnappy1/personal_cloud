@@ -4,7 +4,7 @@
         "description": "Fluffy and creamy scrambled eggs cooked low and slow for a perfect breakfast.",
         "ingredients": [
             {
-                "name": "Eggs",
+                "name": "🥚 Egg",
                 "quantity": 8,
                 "unit": "PIECE",
                 "category": "DAIRY_EGGS"
@@ -22,7 +22,7 @@
                 "category": "OTHER"
             },
             {
-                "name": "Salt",
+                "name": "🧂 Salt",
                 "quantity": 1,
                 "unit": "TEASPOON",
                 "category": "SPICES_CONDIMENTS"
@@ -34,13 +34,13 @@
                 "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "Butter",
+                "name": "🧈 Butter",
                 "quantity": 2,
                 "unit": "TABLESPOON",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Cheddar Cheese",
+                "name": "🧀 Cheddar Cheese",
                 "quantity": 0.5,
                 "unit": "CUP",
                 "category": "DAIRY_EGGS"
@@ -69,19 +69,19 @@
         "description": "Soft and fluffy pancakes perfect with syrup and butter.",
         "ingredients": [
             {
-                "name": "Eggs",
+                "name": "🥚 Egg",
                 "quantity": 1,
                 "unit": "PIECE",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Milk",
+                "name": "🥛 Milk",
                 "quantity": 0.75,
                 "unit": "CUP",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Butter",
+                "name": "🧈 Butter",
                 "quantity": 2,
                 "unit": "TABLESPOON",
                 "category": "DAIRY_EGGS"
@@ -111,7 +111,7 @@
                 "category": "PANTRY"
             },
             {
-                "name": "Salt",
+                "name": "🧂 Salt",
                 "quantity": 0.5,
                 "unit": "TEASPOON",
                 "category": "SPICES_CONDIMENTS"
@@ -142,25 +142,25 @@
         "description": "Golden crispy sandwich with melted cheese inside.",
         "ingredients": [
             {
-                "name": "Cheddar Cheese",
+                "name": "🧀 Cheddar Cheese",
                 "quantity": 1,
                 "unit": "SLICE",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Mozzarella Cheese",
+                "name": "🧀 Mozzarella Cheese",
                 "quantity": 1,
                 "unit": "SLICE",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Colby Cheese",
+                "name": "🧀 Colby Cheese",
                 "quantity": 1,
                 "unit": "SLICE",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "White Bread",
+                "name": "🍞 White Bread",
                 "quantity": 8,
                 "unit": "SLICE",
                 "category": "BAKERY"
@@ -172,13 +172,13 @@
                 "category": "PRODUCE"
             },
             {
-                "name": "Tomato",
+                "name": "🍅 Tomato",
                 "quantity": 0.75,
                 "unit": "CUP",
                 "category": "PRODUCE"
             },
             {
-                "name": "Butter",
+                "name": "🧈 Butter",
                 "quantity": 8,
                 "unit": "TEASPOON",
                 "category": "DAIRY_EGGS"
@@ -210,19 +210,19 @@
         "description": "Classic stir-fried rice with vegetables and soy sauce.",
         "ingredients": [
             {
-                "name": "Butter",
+                "name": "🧈 Butter",
                 "quantity": 1,
                 "unit": "TABLESPOON",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Egg",
+                "name": "🥚 Egg",
                 "quantity": 2,
                 "unit": "PIECE",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Onion",
+                "name": "🧅 Onion",
                 "quantity": 0.25,
                 "unit": "CUP",
                 "category": "PRODUCE"
@@ -234,13 +234,13 @@
                 "category": "PRODUCE"
             },
             {
-                "name": "Rice",
+                "name": "🍚 Rice",
                 "quantity": 2,
                 "unit": "CUP",
                 "category": "PANTRY"
             },
             {
-                "name": "Chicken",
+                "name": "🍗 Chicken",
                 "quantity": 0.5,
                 "unit": "CUP",
                 "category": "MEAT_SEAFOOD"
@@ -286,7 +286,7 @@
         "description": "Juicy grilled chicken with smoky flavor.",
         "ingredients": [
             {
-                "name": "Boneless chicken thighs",
+                "name": "🍗 Boneless chicken thighs",
                 "quantity": 12,
                 "unit": "PIECE",
                 "category": "MEAT_SEAFOOD"
@@ -310,7 +310,7 @@
                 "category": "PRODUCE"
             },
             {
-                "name": "Minced Garlic",
+                "name": "🧄 Minced Garlic",
                 "quantity": 1,
                 "unit": "TABLESPOON",
                 "category": "PRODUCE"
@@ -393,7 +393,7 @@
                 "category": "PANTRY"
             },
             {
-                "name": "Salt",
+                "name": "🧂 Salt",
                 "quantity": 0.5,
                 "unit": "TEASPOON",
                 "category": "SPICES_CONDIMENTS"
@@ -411,7 +411,7 @@
                 "category": "PRODUCE"
             },
             {
-                "name": "Minced Garlic",
+                "name": "🧄 Minced Garlic",
                 "quantity": 2,
                 "unit": "CLOVE",
                 "category": "PRODUCE"
@@ -429,7 +429,7 @@
                 "category": "BAKERY"
             },
             {
-                "name": "Tomato",
+                "name": "🍅 Tomato",
                 "quantity": 1,
                 "unit": "PIECE",
                 "category": "PRODUCE"
@@ -441,7 +441,7 @@
                 "category": "PRODUCE"
             },
             {
-                "name": "Monterey Jack Cheese",
+                "name": "🧀 Monterey Jack Cheese",
                 "quantity": 0.25,
                 "unit": "CUP",
                 "category": "DAIRY_EGGS"
