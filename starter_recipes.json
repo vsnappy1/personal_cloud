@@ -1,0 +1,420 @@
+[
+    {
+        "title": "Scrambled Eggs",
+        "description": "Fluffy and creamy scrambled eggs cooked low and slow for a perfect breakfast.",
+        "ingredients": [
+            {
+                "name": "Eggs",
+                "quantity": 8
+            },
+            {
+                "name": "Sour Cream",
+                "quantity": 3,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Water",
+                "quantity": 1,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Salt",
+                "quantity": 1,
+                "unit": "PINCH"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 1,
+                "unit": "PINCH"
+            },
+            {
+                "name": "Butter",
+                "quantity": 2,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Cheddar Cheese",
+                "quantity": 0.5,
+                "unit": "CUP"
+            }
+        ],
+        "instructions": [
+            "In a medium sized bowl, beat eggs, sour cream, water, and salt and pepper until fluffy.",
+            "Using a nonstick frying pan, melt butter and cook eggs over low heat, stirring occasionally, until just set.",
+            "Stir in the cheese just before serving.",
+            "Cook until you reach desired consistency."
+        ],
+        "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/90/32/3/picJg0C0z.jpg",
+        "recipeUrl": "https://www.food.com/recipe/the-ladys-perfect-scrambled-eggs-paula-deen-90323",
+        "prepTime": 5,
+        "cookTime": 10,
+        "servings": 4,
+        "tags": [
+            "BREAKFAST",
+            "QUICK"
+        ],
+        "heaviness": "LIGHT",
+        "calories": 180
+    },
+    {
+        "title": "Pancakes",
+        "description": "Soft and fluffy pancakes perfect with syrup and butter.",
+        "ingredients": [
+            {
+                "name": "Eggs",
+                "quantity": 1
+            },
+            {
+                "name": "Milk",
+                "quantity": 0.75,
+                "unit": "CUP"
+            },
+            {
+                "name": "Butter",
+                "quantity": 2,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Margarine",
+                "quantity": 2,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Flour",
+                "quantity": 1,
+                "unit": "CUP"
+            },
+            {
+                "name": "Sugar",
+                "quantity": 1,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Baking Powder",
+                "quantity": 1,
+                "unit": "TSP"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.5,
+                "unit": "TSP"
+            }
+        ],
+        "instructions": [
+            "Beat egg until fluffy.",
+            "Add milk and melted margarine.",
+            "Add dry ingredients and mix well.",
+            "Heat a heavy griddle or fry pan which is greased with a little butter on a paper towel.",
+            "The pan is hot enough when a drop of water breaks into several smaller balls which 'dance' around the pan.",
+            "Pour a small amount of batter (approx 1/4 cup) into pan and tip to spread out or spread with spoon.",
+            "When bubbles appear on surface and begin to break, turn over and cook the other side."
+        ],
+        "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/25/69/0/picwslJ1c.jpg",
+        "recipeUrl": "https://www.food.com/recipe/pancakes-25690",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "tags": [
+            "BREAKFAST"
+        ],
+        "heaviness": "MEDIUM",
+        "calories": 350
+    },
+    {
+        "title": "Grilled Cheese Sandwich",
+        "description": "Golden crispy sandwich with melted cheese inside.",
+        "ingredients": [
+            {
+                "name": "Cheddar Cheese",
+                "quantity": 1,
+                "unit": "SLICE"
+            },
+            {
+                "name": "Mozzarella Cheese",
+                "quantity": 1,
+                "unit": "SLICE"
+            },
+            {
+                "name": "Colby Cheese",
+                "quantity": 1,
+                "unit": "SLICE"
+            },
+            {
+                "name": "White Bread",
+                "quantity": 8,
+                "unit": "SLICE"
+            },
+            {
+                "name": "Green Onion",
+                "quantity": 1,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Tomato",
+                "quantity": 0.75,
+                "unit": "CUP"
+            },
+            {
+                "name": "Butter",
+                "quantity": 8,
+                "unit": "TSP"
+            }
+        ],
+        "instructions": [
+            "Place cheese slices on 4 slices bread. Top with onions, tomato and remaining bread.",
+            "Spread 1 t of the butter over each top slice of bread.",
+            "Place sandwiches, butter sides down, in skillet.",
+            "Spread remaining butter over top slices of bread.",
+            "Cook uncovered over medium heat about 5 minutes or until bottoms are golden brown.",
+            "Turn and cook 2 to 3 minutes or until bottoms are golden brown and cheese is melted.",
+            "Cut sandwiches into wedges or sticks, using pizza cutter."
+        ],
+        "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/19/40/54/picpajU8Y.jpg",
+        "recipeUrl": "https://www.food.com/recipe/super-grilled-cheese-sandwiches-194054",
+        "prepTime": 5,
+        "cookTime": 10,
+        "servings": 1,
+        "tags": [
+            "LUNCH",
+            "QUICK"
+        ],
+        "heaviness": "MEDIUM",
+        "calories": 350
+    },
+    {
+        "title": "Fried Rice",
+        "description": "Classic stir-fried rice with vegetables and soy sauce.",
+        "ingredients": [
+            {
+                "name": "Butter",
+                "quantity": 1,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Egg",
+                "quantity": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 0.25,
+                "unit": "CUP"
+            },
+            {
+                "name": "Green Pepper",
+                "quantity": 0.25,
+                "unit": "CUP"
+            },
+            {
+                "name": "Rice",
+                "quantity": 2,
+                "unit": "CUP"
+            },
+            {
+                "name": "Chicken",
+                "quantity": 0.5,
+                "unit": "CUP"
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": 0.25,
+                "unit": "CUP"
+            },
+            {
+                "name": "Peas",
+                "quantity": 0.5,
+                "unit": "CUP"
+            }
+        ],
+        "instructions": [
+            "Melt 1 tablespoon butter in skillet or wok.",
+            "Scramble eggs in butter, breaking up the cooked eggs into small pieces.",
+            "Set aside.",
+            "Melt 1 tablespoon butter in skillet or wok.",
+            "Saute onions and/or green peppers in butter for 3 minutes.",
+            "Combine eggs, onions, rice, and meat.",
+            "Stir in soy sauce until color of rice is uniform.",
+            "Stir in peas.",
+            "Heat only until warm."
+        ],
+        "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/85/94/22NCgGZSZesEPtXINoFw_Fried%2520rice%25208594-7.jpg",
+        "recipeUrl": "https://www.food.com/recipe/fried-rice-8594",
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "tags": [
+            "LUNCH",
+            "ASIAN"
+        ],
+        "heaviness": "MEDIUM",
+        "calories": 320
+    },
+    {
+        "title": "Grilled Chicken",
+        "description": "Juicy grilled chicken with smoky flavor.",
+        "ingredients": [
+            {
+                "name": "Boneless chicken thighs",
+                "quantity": 12,
+                "unit": "PIECE"
+            },
+            {
+                "name": "Fresh basil",
+                "quantity": 0.33,
+                "unit": "CUP"
+            },
+            {
+                "name": "Fresh Cilantro",
+                "quantity": 0.33,
+                "unit": "CUP"
+            },
+            {
+                "name": "Minced Ginger",
+                "quantity": 1,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Minced Garlic",
+                "quantity": 1,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Minced Chili",
+                "quantity": 1,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": 1.5,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Fish Sauce",
+                "quantity": 1.5,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Olive Oil",
+                "quantity": 1.5,
+                "unit": "TBSP"
+            },
+            {
+                "name": "Brown Sugar",
+                "quantity": 1.5,
+                "unit": "TBSP"
+            }
+        ],
+        "instructions": [
+            "Combine all ingredients except chicken in a bowl.",
+            "Mix thoroughly.",
+            "Add chicken and leave to marinate at least one hour, preferably longer.",
+            "Grill chicken on the BBQ, hotplate or in the griller until golden brown and cooked through.",
+            "Ususlly you would expect 12 thigh fillets to feed 4 to 6 people- in my family the kids eat 4 each so this recipe serves 3."
+        ],
+        "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/99/15/6/MjHI6IRNQZSAunLzvxeA_Thai%2520grilled%2520chicken%2520thighs%252099156-7.jpg",
+        "recipeUrl": "https://www.food.com/recipe/thai-style-grilled-chicken-thighs-99156",
+        "prepTime": 10,
+        "cookTime": 25,
+        "servings": 4,
+        "tags": [
+            "DINNER"
+        ],
+        "heaviness": "LIGHT",
+        "calories": 300
+    },
+    {
+        "title": "Chicken Tacos",
+        "description": "Soft tacos filled with flavorful chicken and toppings.",
+        "ingredients": [
+            {
+                "name": "Boneless chicken breast",
+                "quantity": 1.5,
+                "unit": "LB"
+            },
+            {
+                "name": "Red wine vinegar",
+                "quantity": 0.125,
+                "unit": "CUP"
+            },
+            {
+                "name": "Lime juice",
+                "quantity": 0.5,
+                "unit": "TSP"
+            },
+            {
+                "name": "White sugar",
+                "quantity": 1,
+                "unit": "TSP"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.5,
+                "unit": "TSP"
+            },
+            {
+                "name": "Ground black pepper",
+                "quantity": 0.5,
+                "unit": "TSP"
+            },
+            {
+                "name": "Green Onion",
+                "quantity": 2,
+                "unit": "PIECE"
+            },
+            {
+                "name": "Minced Garlic",
+                "quantity": 2,
+                "unit": "CLOVE"
+            },
+            {
+                "name": "Dried Oregano",
+                "quantity": 1,
+                "unit": "TSP"
+            },
+            {
+                "name": "6-inch flour tortillas",
+                "quantity": 10,
+                "unit": "PIECE"
+            },
+            {
+                "name": "Tomato",
+                "quantity": 1,
+                "unit": "PIECE"
+            },
+            {
+                "name": "Lettuce",
+                "quantity": 0.25,
+                "unit": "CUP"
+            },
+            {
+                "name": "Monterey Jack Cheese",
+                "quantity": 0.25,
+                "unit": "CUP"
+            },
+            {
+                "name": "Salsa",
+                "quantity": 0.25,
+                "unit": "CUP"
+            }
+        ],
+        "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/64/16/0/tI9mFs3RP2EZqGgsTgqA_IMG_5247.JPG",
+        "recipeUrl": "https://www.food.com/recipe/lime-chicken-soft-tacos-64160",
+        "instructions": [
+            "Saute chicken in a medium saucepan over medium high heat for about 20 minutes.",
+            "Add vinegar, lime juice, sugar, salt, pepper, green onion, garlic and oregano.",
+            "Simmer for an extra 10 minutes.",
+            "Heat an iron skillet over medium heat.",
+            "Place a tortilla in the pan, warm, and turn over to heat the other side.",
+            "Repeat with remaining tortillas.",
+            "Serve lime chicken mixture in warm tortillas topped with tomato, lettuce, cheese and salsa."
+        ],
+        "prepTime": 10,
+        "cookTime": 15,
+        "servings": 4,
+        "tags": [
+            "DINNER",
+            "MEXICAN"
+        ],
+        "heaviness": "MEDIUM",
+        "calories": 350
+    }
+]
