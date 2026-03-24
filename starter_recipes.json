@@ -5,37 +5,45 @@
         "ingredients": [
             {
                 "name": "Eggs",
-                "quantity": 8
+                "quantity": 8,
+                "unit": "PIECE",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Sour Cream",
                 "quantity": 3,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Water",
                 "quantity": 1,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "OTHER"
             },
             {
                 "name": "Salt",
                 "quantity": 1,
-                "unit": "PINCH"
+                "unit": "TEASPOON",
+                "category": "SPICES_CONDIMENTS"
             },
             {
                 "name": "Pepper",
                 "quantity": 1,
-                "unit": "PINCH"
+                "unit": "TEASPOON",
+                "category": "SPICES_CONDIMENTS"
             },
             {
                 "name": "Butter",
                 "quantity": 2,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Cheddar Cheese",
                 "quantity": 0.5,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "DAIRY_EGGS"
             }
         ],
         "instructions": [
@@ -62,42 +70,51 @@
         "ingredients": [
             {
                 "name": "Eggs",
-                "quantity": 1
+                "quantity": 1,
+                "unit": "PIECE",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Milk",
                 "quantity": 0.75,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Butter",
                 "quantity": 2,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Margarine",
                 "quantity": 2,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Flour",
                 "quantity": 1,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "PANTRY"
             },
             {
                 "name": "Sugar",
                 "quantity": 1,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "PANTRY"
             },
             {
                 "name": "Baking Powder",
                 "quantity": 1,
-                "unit": "TSP"
+                "unit": "TEASPOON",
+                "category": "PANTRY"
             },
             {
                 "name": "Salt",
                 "quantity": 0.5,
-                "unit": "TSP"
+                "unit": "TEASPOON",
+                "category": "SPICES_CONDIMENTS"
             }
         ],
         "instructions": [
@@ -127,37 +144,44 @@
             {
                 "name": "Cheddar Cheese",
                 "quantity": 1,
-                "unit": "SLICE"
+                "unit": "SLICE",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Mozzarella Cheese",
                 "quantity": 1,
-                "unit": "SLICE"
+                "unit": "SLICE",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Colby Cheese",
                 "quantity": 1,
-                "unit": "SLICE"
+                "unit": "SLICE",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "White Bread",
                 "quantity": 8,
-                "unit": "SLICE"
+                "unit": "SLICE",
+                "category": "BAKERY"
             },
             {
                 "name": "Green Onion",
                 "quantity": 1,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "PRODUCE"
             },
             {
                 "name": "Tomato",
                 "quantity": 0.75,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "PRODUCE"
             },
             {
                 "name": "Butter",
                 "quantity": 8,
-                "unit": "TSP"
+                "unit": "TEASPOON",
+                "category": "DAIRY_EGGS"
             }
         ],
         "instructions": [
@@ -188,41 +212,50 @@
             {
                 "name": "Butter",
                 "quantity": 1,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Egg",
-                "quantity": 2
+                "quantity": 2,
+                "unit": "PIECE",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Onion",
                 "quantity": 0.25,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "PRODUCE"
             },
             {
                 "name": "Green Pepper",
                 "quantity": 0.25,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "PRODUCE"
             },
             {
                 "name": "Rice",
                 "quantity": 2,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "PANTRY"
             },
             {
                 "name": "Chicken",
                 "quantity": 0.5,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "MEAT_SEAFOOD"
             },
             {
                 "name": "Soy Sauce",
                 "quantity": 0.25,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "SPICES_CONDIMENTS"
             },
             {
                 "name": "Peas",
                 "quantity": 0.5,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "FROZEN"
             }
         ],
         "instructions": [
@@ -255,52 +288,62 @@
             {
                 "name": "Boneless chicken thighs",
                 "quantity": 12,
-                "unit": "PIECE"
+                "unit": "PIECE",
+                "category": "MEAT_SEAFOOD"
             },
             {
                 "name": "Fresh basil",
                 "quantity": 0.33,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "PRODUCE"
             },
             {
                 "name": "Fresh Cilantro",
                 "quantity": 0.33,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "PRODUCE"
             },
             {
                 "name": "Minced Ginger",
                 "quantity": 1,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "PRODUCE"
             },
             {
                 "name": "Minced Garlic",
                 "quantity": 1,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "PRODUCE"
             },
             {
                 "name": "Minced Chili",
                 "quantity": 1,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "PRODUCE"
             },
             {
                 "name": "Soy Sauce",
                 "quantity": 1.5,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "SPICES_CONDIMENTS"
             },
             {
                 "name": "Fish Sauce",
                 "quantity": 1.5,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "SPICES_CONDIMENTS"
             },
             {
                 "name": "Olive Oil",
                 "quantity": 1.5,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "PANTRY"
             },
             {
                 "name": "Brown Sugar",
                 "quantity": 1.5,
-                "unit": "TBSP"
+                "unit": "TABLESPOON",
+                "category": "PANTRY"
             }
         ],
         "instructions": [
@@ -328,72 +371,86 @@
             {
                 "name": "Boneless chicken breast",
                 "quantity": 1.5,
-                "unit": "LB"
+                "unit": "POUND",
+                "category": "MEAT_SEAFOOD"
             },
             {
                 "name": "Red wine vinegar",
                 "quantity": 0.125,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "SPICES_CONDIMENTS"
             },
             {
                 "name": "Lime juice",
                 "quantity": 0.5,
-                "unit": "TSP"
+                "unit": "TEASPOON",
+                "category": "PRODUCE"
             },
             {
                 "name": "White sugar",
                 "quantity": 1,
-                "unit": "TSP"
+                "unit": "TEASPOON",
+                "category": "PANTRY"
             },
             {
                 "name": "Salt",
                 "quantity": 0.5,
-                "unit": "TSP"
+                "unit": "TEASPOON",
+                "category": "SPICES_CONDIMENTS"
             },
             {
                 "name": "Ground black pepper",
                 "quantity": 0.5,
-                "unit": "TSP"
+                "unit": "TEASPOON",
+                "category": "SPICES_CONDIMENTS"
             },
             {
                 "name": "Green Onion",
                 "quantity": 2,
-                "unit": "PIECE"
+                "unit": "PIECE",
+                "category": "PRODUCE"
             },
             {
                 "name": "Minced Garlic",
                 "quantity": 2,
-                "unit": "CLOVE"
+                "unit": "CLOVE",
+                "category": "PRODUCE"
             },
             {
                 "name": "Dried Oregano",
                 "quantity": 1,
-                "unit": "TSP"
+                "unit": "TEASPOON",
+                "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "6-inch flour tortillas",
+                "name": "Flour tortillas",
                 "quantity": 10,
-                "unit": "PIECE"
+                "unit": "PIECE",
+                "category": "BAKERY"
             },
             {
                 "name": "Tomato",
                 "quantity": 1,
-                "unit": "PIECE"
+                "unit": "PIECE",
+                "category": "PRODUCE"
             },
             {
                 "name": "Lettuce",
-                "quantity": 0.25,
-                "unit": "CUP"
+                "quantity": 1,
+                "unit": "CUP",
+                "category": "PRODUCE"
             },
             {
                 "name": "Monterey Jack Cheese",
                 "quantity": 0.25,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "DAIRY_EGGS"
             },
             {
                 "name": "Salsa",
                 "quantity": 0.25,
-                "unit": "CUP"
+                "unit": "CUP",
+                "category": "SPICES_CONDIMENTS"
             }
         ],
         "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/64/16/0/tI9mFs3RP2EZqGgsTgqA_IMG_5247.JPG",
