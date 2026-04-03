@@ -1,35 +1,35 @@
 [
     {
         "title": "Scrambled Eggs",
-        "description": "Fluffy and creamy scrambled eggs cooked low and slow for a perfect breakfast.",
+        "description": "Rich, soft, and creamy scrambled eggs gently cooked over low heat with butter and finished with melted cheddar cheese. Perfect for a comforting, protein-packed breakfast with a velvety texture.",
         "ingredients": [
             {
-                "name": "🥚 Egg",
+                "name": "🥚 Eggs",
                 "quantity": 8,
                 "unit": "PIECE",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Sour Cream",
+                "name": "🥛 Sour Cream",
                 "quantity": 3,
                 "unit": "TABLESPOON",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Water",
+                "name": "💧 Water",
                 "quantity": 1,
                 "unit": "TABLESPOON",
                 "category": "OTHER"
             },
             {
                 "name": "🧂 Salt",
-                "quantity": 1,
+                "quantity": 0.5,
                 "unit": "TEASPOON",
                 "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "Pepper",
-                "quantity": 1,
+                "name": "🌶️ Black Pepper",
+                "quantity": 0.25,
                 "unit": "TEASPOON",
                 "category": "SPICES_CONDIMENTS"
             },
@@ -40,73 +40,70 @@
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "🧀 Cheddar Cheese",
+                "name": "🧀 Cheddar Cheese (shredded)",
                 "quantity": 0.5,
                 "unit": "CUP",
                 "category": "DAIRY_EGGS"
             }
         ],
         "instructions": [
-            "In a medium sized bowl, beat eggs, sour cream, water, and salt and pepper until fluffy.",
-            "Using a nonstick frying pan, melt butter and cook eggs over low heat, stirring occasionally, until just set.",
-            "Stir in the cheese just before serving.",
-            "Cook until you reach desired consistency."
+            "Crack the eggs into a mixing bowl. Add sour cream, water, salt, and black pepper. Whisk thoroughly until the mixture is smooth and slightly frothy.",
+            "Place a nonstick skillet over low heat and add butter. Allow it to melt gently without browning.",
+            "Pour the egg mixture into the pan. Let it sit for a few seconds, then gently stir with a spatula, pushing eggs from the edges toward the center.",
+            "Continue cooking slowly, stirring occasionally to form soft, creamy curds. Avoid high heat to prevent drying out.",
+            "When the eggs are mostly set but still slightly glossy, add the shredded cheddar cheese and gently fold it in.",
+            "Remove from heat just before fully set (eggs will continue cooking from residual heat). Serve immediately for the best creamy texture."
         ],
         "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/90/32/3/picJg0C0z.jpg",
         "recipeUrl": "https://www.food.com/recipe/the-ladys-perfect-scrambled-eggs-paula-deen-90323",
-        "prepTime": 5,
-        "cookTime": 10,
+        "prepTime": 7,
+        "cookTime": 8,
         "servings": 4,
         "tags": [
             "BREAKFAST",
-            "QUICK"
+            "QUICK",
+            "HIGH_PROTEIN"
         ],
-        "heaviness": "LIGHT",
-        "calories": 180
+        "heaviness": "MEDIUM",
+        "calories": 320
     },
     {
-        "title": "Pancakes",
-        "description": "Soft and fluffy pancakes perfect with syrup and butter.",
+        "title": "Homemade Pancakes",
+        "description": "Light, airy, and perfectly golden pancakes that are soft on the inside and slightly crisp on the outside. Serve warm with butter, syrup, or your favorite toppings for a classic breakfast treat.",
         "ingredients": [
             {
-                "name": "🥚 Egg",
-                "quantity": 1,
+                "name": "🥚 Eggs",
+                "quantity": 2,
                 "unit": "PIECE",
                 "category": "DAIRY_EGGS"
             },
             {
                 "name": "🥛 Milk",
-                "quantity": 0.75,
+                "quantity": 1,
                 "unit": "CUP",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "🧈 Butter",
-                "quantity": 2,
+                "name": "🧈 Butter (melted)",
+                "quantity": 3,
                 "unit": "TABLESPOON",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Margarine",
-                "quantity": 2,
-                "unit": "TABLESPOON",
-                "category": "DAIRY_EGGS"
-            },
-            {
-                "name": "Flour",
+                "name": "🌾 All-Purpose Flour",
                 "quantity": 1,
                 "unit": "CUP",
                 "category": "PANTRY"
             },
             {
-                "name": "Sugar",
-                "quantity": 1,
+                "name": "🍬 Sugar",
+                "quantity": 2,
                 "unit": "TABLESPOON",
                 "category": "PANTRY"
             },
             {
-                "name": "Baking Powder",
-                "quantity": 1,
+                "name": "🫙 Baking Powder",
+                "quantity": 2,
                 "unit": "TEASPOON",
                 "category": "PANTRY"
             },
@@ -118,13 +115,13 @@
             }
         ],
         "instructions": [
-            "Beat egg until fluffy.",
-            "Add milk and melted margarine.",
-            "Add dry ingredients and mix well.",
-            "Heat a heavy griddle or fry pan which is greased with a little butter on a paper towel.",
-            "The pan is hot enough when a drop of water breaks into several smaller balls which 'dance' around the pan.",
-            "Pour a small amount of batter (approx 1/4 cup) into pan and tip to spread out or spread with spoon.",
-            "When bubbles appear on surface and begin to break, turn over and cook the other side."
+            "In a medium bowl, whisk the eggs until frothy. Add milk and melted butter, mixing until combined.",
+            "In a separate bowl, combine flour, sugar, baking powder, and salt.",
+            "Gradually add the dry ingredients to the wet mixture, stirring gently until just combined. Do not overmix; small lumps are okay.",
+            "Heat a nonstick skillet or griddle over medium heat. Lightly grease with butter.",
+            "Drop about 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form on the surface and edges look set, about 2-3 minutes.",
+            "Flip the pancake carefully and cook for another 1-2 minutes until golden brown.",
+            "Serve immediately with butter, syrup, fresh fruits, or your favorite toppings."
         ],
         "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/25/69/0/picwslJ1c.jpg",
         "recipeUrl": "https://www.food.com/recipe/pancakes-25690",
@@ -132,30 +129,32 @@
         "cookTime": 15,
         "servings": 4,
         "tags": [
-            "BREAKFAST"
+            "BREAKFAST",
+            "QUICK",
+            "VEGETARIAN"
         ],
         "heaviness": "MEDIUM",
-        "calories": 350
+        "calories": 380
     },
     {
         "title": "Grilled Cheese Sandwich",
-        "description": "Golden crispy sandwich with melted cheese inside.",
+        "description": "Crispy golden bread with a gooey, melty mix of cheddar, mozzarella, and Colby cheeses, complemented by fresh tomato and a hint of green onion. A quick and satisfying sandwich perfect for lunch or a comforting snack.",
         "ingredients": [
             {
                 "name": "🧀 Cheddar Cheese",
-                "quantity": 1,
+                "quantity": 2,
                 "unit": "SLICE",
                 "category": "DAIRY_EGGS"
             },
             {
                 "name": "🧀 Mozzarella Cheese",
-                "quantity": 1,
+                "quantity": 2,
                 "unit": "SLICE",
                 "category": "DAIRY_EGGS"
             },
             {
                 "name": "🧀 Colby Cheese",
-                "quantity": 1,
+                "quantity": 2,
                 "unit": "SLICE",
                 "category": "DAIRY_EGGS"
             },
@@ -166,228 +165,231 @@
                 "category": "BAKERY"
             },
             {
-                "name": "Green Onion",
+                "name": "🧅 Green Onion",
                 "quantity": 1,
-                "unit": "TABLESPOON",
+                "unit": "PIECE",
                 "category": "PRODUCE"
             },
             {
                 "name": "🍅 Tomato",
-                "quantity": 0.75,
-                "unit": "CUP",
+                "quantity": 1,
+                "unit": "PIECE",
                 "category": "PRODUCE"
             },
             {
                 "name": "🧈 Butter",
-                "quantity": 8,
-                "unit": "TEASPOON",
+                "quantity": 2,
+                "unit": "TABLESPOON",
                 "category": "DAIRY_EGGS"
             }
         ],
         "instructions": [
-            "Place cheese slices on 4 slices bread. Top with onions, tomato and remaining bread.",
-            "Spread 1 t of the butter over each top slice of bread.",
-            "Place sandwiches, butter sides down, in skillet.",
-            "Spread remaining butter over top slices of bread.",
-            "Cook uncovered over medium heat about 5 minutes or until bottoms are golden brown.",
-            "Turn and cook 2 to 3 minutes or until bottoms are golden brown and cheese is melted.",
-            "Cut sandwiches into wedges or sticks, using pizza cutter."
+            "Slice the tomato and green onion finely.",
+            "Layer 1 slice each of cheddar, mozzarella, and Colby cheese on 4 slices of bread. Top with tomato slices and a sprinkle of green onion. Cover with the remaining bread slices.",
+            "Spread butter evenly on the outside of each sandwich.",
+            "Heat a nonstick skillet over medium heat. Place sandwiches in the skillet, cooking 3-4 minutes per side, until bread is golden brown and cheese has melted.",
+            "Remove from heat and let rest 1 minute before slicing.",
+            "Cut sandwiches into halves or wedges and serve warm."
         ],
         "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/19/40/54/picpajU8Y.jpg",
         "recipeUrl": "https://www.food.com/recipe/super-grilled-cheese-sandwiches-194054",
-        "prepTime": 5,
-        "cookTime": 10,
-        "servings": 1,
+        "prepTime": 7,
+        "cookTime": 8,
+        "servings": 2,
         "tags": [
             "LUNCH",
-            "QUICK"
+            "QUICK",
+            "VEGETARIAN"
         ],
         "heaviness": "MEDIUM",
-        "calories": 350
+        "calories": 400
     },
     {
-        "title": "Fried Rice",
-        "description": "Classic stir-fried rice with vegetables and soy sauce.",
+        "title": "Chicken Fried Rice",
+        "description": "A flavorful fried rice packed with tender chicken, colorful vegetables, and scrambled eggs, lightly seasoned with soy sauce. Perfect for a quick, satisfying lunch or dinner that's easy to make at home.",
         "ingredients": [
             {
                 "name": "🧈 Butter",
-                "quantity": 1,
+                "quantity": 2,
                 "unit": "TABLESPOON",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "🥚 Egg",
+                "name": "🥚 Eggs",
                 "quantity": 2,
                 "unit": "PIECE",
                 "category": "DAIRY_EGGS"
             },
             {
                 "name": "🧅 Onion",
-                "quantity": 0.25,
-                "unit": "CUP",
+                "quantity": 1,
+                "unit": "PIECE",
                 "category": "PRODUCE"
             },
             {
-                "name": "Green Pepper",
-                "quantity": 0.25,
-                "unit": "CUP",
+                "name": "🫑 Green Bell Pepper",
+                "quantity": 1,
+                "unit": "PIECE",
                 "category": "PRODUCE"
             },
             {
-                "name": "🍚 Rice",
-                "quantity": 2,
-                "unit": "CUP",
+                "name": "🍚 Cooked Rice",
+                "quantity": 400,
+                "unit": "GRAM",
                 "category": "PANTRY"
             },
             {
-                "name": "🍗 Chicken",
-                "quantity": 0.5,
-                "unit": "CUP",
+                "name": "🍗 Chicken Breast",
+                "quantity": 150,
+                "unit": "GRAM",
                 "category": "MEAT_SEAFOOD"
             },
             {
-                "name": "Soy Sauce",
-                "quantity": 0.25,
-                "unit": "CUP",
+                "name": "🫙 Soy Sauce",
+                "quantity": 2,
+                "unit": "TABLESPOON",
                 "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "Peas",
-                "quantity": 0.5,
-                "unit": "CUP",
+                "name": "🟢 Peas",
+                "quantity": 100,
+                "unit": "GRAM",
                 "category": "FROZEN"
             }
         ],
         "instructions": [
-            "Melt 1 tablespoon butter in skillet or wok.",
-            "Scramble eggs in butter, breaking up the cooked eggs into small pieces.",
-            "Set aside.",
-            "Melt 1 tablespoon butter in skillet or wok.",
-            "Saute onions and/or green peppers in butter for 3 minutes.",
-            "Combine eggs, onions, rice, and meat.",
-            "Stir in soy sauce until color of rice is uniform.",
-            "Stir in peas.",
-            "Heat only until warm."
+            "Heat 1 tablespoon of butter in a large skillet or wok over medium heat.",
+            "Add the eggs and scramble until fully cooked. Break them into small pieces and set aside.",
+            "Add the remaining 1 tablespoon of butter to the skillet. Sauté diced onion and chopped green bell pepper for 3-4 minutes until softened.",
+            "Add diced chicken and cook until fully cooked through.",
+            "Stir in the cooked rice, scrambled eggs, and frozen peas.",
+            "Pour in soy sauce and mix well until the rice is evenly coated and heated through.",
+            "Cook for 2-3 more minutes, stirring occasionally, then serve hot."
         ],
         "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/85/94/22NCgGZSZesEPtXINoFw_Fried%2520rice%25208594-7.jpg",
         "recipeUrl": "https://www.food.com/recipe/fried-rice-8594",
         "prepTime": 10,
-        "cookTime": 15,
-        "servings": 4,
+        "cookTime": 20,
+        "servings": 3,
         "tags": [
             "LUNCH",
-            "ASIAN"
+            "ASIAN",
+            "QUICK"
         ],
         "heaviness": "MEDIUM",
-        "calories": 320
+        "calories": 400
     },
     {
-        "title": "Grilled Chicken",
-        "description": "Juicy grilled chicken with smoky flavor.",
+        "title": "Grilled Chicken Thighs",
+        "description": "Juicy, tender chicken thighs marinated in a fragrant blend of garlic, ginger, chili, fresh herbs, and a touch of sweetness, then perfectly grilled to smoky perfection. Ideal for a flavorful dinner or BBQ.",
         "ingredients": [
             {
-                "name": "🍗 Boneless chicken thighs",
+                "name": "🍗 Boneless Chicken Thighs",
                 "quantity": 12,
                 "unit": "PIECE",
                 "category": "MEAT_SEAFOOD"
             },
             {
-                "name": "Fresh basil",
-                "quantity": 0.33,
-                "unit": "CUP",
+                "name": "🌿 Fresh Basil",
+                "quantity": 15,
+                "unit": "GRAM",
                 "category": "PRODUCE"
             },
             {
-                "name": "Fresh Cilantro",
-                "quantity": 0.33,
-                "unit": "CUP",
+                "name": "🌿 Fresh Cilantro",
+                "quantity": 15,
+                "unit": "GRAM",
                 "category": "PRODUCE"
             },
             {
-                "name": "Minced Ginger",
+                "name": "🫚 Fresh Ginger (minced)",
                 "quantity": 1,
                 "unit": "TABLESPOON",
                 "category": "PRODUCE"
             },
             {
-                "name": "🧄 Minced Garlic",
+                "name": "🧄 Garlic (minced)",
                 "quantity": 1,
                 "unit": "TABLESPOON",
                 "category": "PRODUCE"
             },
             {
-                "name": "Minced Chili",
+                "name": "🌶️ Red Chili (minced)",
                 "quantity": 1,
                 "unit": "TABLESPOON",
                 "category": "PRODUCE"
             },
             {
-                "name": "Soy Sauce",
+                "name": "🫙 Soy Sauce",
                 "quantity": 1.5,
                 "unit": "TABLESPOON",
                 "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "Fish Sauce",
+                "name": "🫙 Fish Sauce",
                 "quantity": 1.5,
                 "unit": "TABLESPOON",
                 "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "Olive Oil",
+                "name": "🫒 Olive Oil",
                 "quantity": 1.5,
                 "unit": "TABLESPOON",
                 "category": "PANTRY"
             },
             {
-                "name": "Brown Sugar",
+                "name": "🍬 Brown Sugar",
                 "quantity": 1.5,
                 "unit": "TABLESPOON",
                 "category": "PANTRY"
             }
         ],
         "instructions": [
-            "Combine all ingredients except chicken in a bowl.",
-            "Mix thoroughly.",
-            "Add chicken and leave to marinate at least one hour, preferably longer.",
-            "Grill chicken on the BBQ, hotplate or in the griller until golden brown and cooked through.",
-            "Ususlly you would expect 12 thigh fillets to feed 4 to 6 people- in my family the kids eat 4 each so this recipe serves 3."
+            "In a medium bowl, combine basil, cilantro, minced ginger, garlic, chili, soy sauce, fish sauce, olive oil, and brown sugar to create the marinade.",
+            "Mix thoroughly until the sugar dissolves and ingredients are well combined.",
+            "Add chicken thighs to the marinade, coating them evenly. Cover and refrigerate for at least 1 hour, preferably 3–4 hours for deeper flavor.",
+            "Preheat your grill, hotplate, or griller over medium-high heat.",
+            "Place the marinated chicken on the grill and cook for 5–7 minutes per side, or until golden brown and cooked through (internal temperature 75°C / 165°F).",
+            "Remove from grill and let rest for 5 minutes before serving.",
+            "This recipe makes about 12 thighs, serving 4–6 people depending on portion size."
         ],
         "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/99/15/6/MjHI6IRNQZSAunLzvxeA_Thai%2520grilled%2520chicken%2520thighs%252099156-7.jpg",
         "recipeUrl": "https://www.food.com/recipe/thai-style-grilled-chicken-thighs-99156",
-        "prepTime": 10,
+        "prepTime": 15,
         "cookTime": 25,
-        "servings": 4,
+        "servings": 5,
         "tags": [
-            "DINNER"
+            "DINNER",
+            "BBQ",
+            "ASIAN"
         ],
-        "heaviness": "LIGHT",
-        "calories": 300
+        "heaviness": "MEDIUM",
+        "calories": 380
     },
     {
-        "title": "Chicken Tacos",
-        "description": "Soft tacos filled with flavorful chicken and toppings.",
+        "title": "Lime Chicken Soft Tacos",
+        "description": "Tender and juicy chicken marinated with lime and spices, served in warm flour tortillas with fresh tomato, crisp lettuce, cheese, and a dollop of salsa. Perfect for a flavorful and satisfying Mexican-style dinner.",
         "ingredients": [
             {
-                "name": "Boneless chicken breast",
-                "quantity": 1.5,
-                "unit": "POUND",
+                "name": "🍗 Boneless Chicken Breast",
+                "quantity": 680,
+                "unit": "GRAM",
                 "category": "MEAT_SEAFOOD"
             },
             {
-                "name": "Red wine vinegar",
-                "quantity": 0.125,
-                "unit": "CUP",
+                "name": "🍷 Red Wine Vinegar",
+                "quantity": 30,
+                "unit": "ML",
                 "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "Lime juice",
-                "quantity": 0.5,
-                "unit": "TEASPOON",
+                "name": "🍋 Lime Juice",
+                "quantity": 7,
+                "unit": "ML",
                 "category": "PRODUCE"
             },
             {
-                "name": "White sugar",
+                "name": "🍬 White Sugar",
                 "quantity": 1,
                 "unit": "TEASPOON",
                 "category": "PANTRY"
@@ -399,31 +401,31 @@
                 "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "Ground black pepper",
+                "name": "🌶 Ground Black Pepper",
                 "quantity": 0.5,
                 "unit": "TEASPOON",
                 "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "Green Onion",
+                "name": "🧅 Green Onion",
                 "quantity": 2,
                 "unit": "PIECE",
                 "category": "PRODUCE"
             },
             {
-                "name": "🧄 Minced Garlic",
+                "name": "🧄 Garlic (minced)",
                 "quantity": 2,
                 "unit": "CLOVE",
                 "category": "PRODUCE"
             },
             {
-                "name": "Dried Oregano",
+                "name": "🌿 Dried Oregano",
                 "quantity": 1,
                 "unit": "TEASPOON",
                 "category": "SPICES_CONDIMENTS"
             },
             {
-                "name": "Flour tortillas",
+                "name": "🌮 Flour Tortillas",
                 "quantity": 10,
                 "unit": "PIECE",
                 "category": "BAKERY"
@@ -435,43 +437,45 @@
                 "category": "PRODUCE"
             },
             {
-                "name": "Lettuce",
-                "quantity": 1,
-                "unit": "CUP",
+                "name": "🥬 Lettuce",
+                "quantity": 40,
+                "unit": "GRAM",
                 "category": "PRODUCE"
             },
             {
                 "name": "🧀 Monterey Jack Cheese",
-                "quantity": 0.25,
-                "unit": "CUP",
+                "quantity": 30,
+                "unit": "GRAM",
                 "category": "DAIRY_EGGS"
             },
             {
-                "name": "Salsa",
-                "quantity": 0.25,
-                "unit": "CUP",
+                "name": "🌶 Salsa",
+                "quantity": 60,
+                "unit": "ML",
                 "category": "SPICES_CONDIMENTS"
             }
         ],
+        "instructions": [
+            "Cut chicken into small bite-sized pieces.",
+            "Heat a medium saucepan over medium-high heat and sauté chicken for about 10-12 minutes until lightly browned.",
+            "Add red wine vinegar, lime juice, sugar, salt, pepper, chopped green onions, minced garlic, and oregano. Mix well.",
+            "Reduce heat and simmer for 8-10 minutes until chicken is fully cooked and flavors are well combined.",
+            "Meanwhile, heat an iron skillet or nonstick pan over medium heat.",
+            "Warm each tortilla for about 30 seconds per side until pliable.",
+            "Assemble tacos by placing chicken mixture on tortillas and topping with diced tomato, shredded lettuce, cheese, and salsa.",
+            "Serve immediately while warm."
+        ],
         "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_iw/v1/img/recipes/64/16/0/tI9mFs3RP2EZqGgsTgqA_IMG_5247.JPG",
         "recipeUrl": "https://www.food.com/recipe/lime-chicken-soft-tacos-64160",
-        "instructions": [
-            "Saute chicken in a medium saucepan over medium high heat for about 20 minutes.",
-            "Add vinegar, lime juice, sugar, salt, pepper, green onion, garlic and oregano.",
-            "Simmer for an extra 10 minutes.",
-            "Heat an iron skillet over medium heat.",
-            "Place a tortilla in the pan, warm, and turn over to heat the other side.",
-            "Repeat with remaining tortillas.",
-            "Serve lime chicken mixture in warm tortillas topped with tomato, lettuce, cheese and salsa."
-        ],
-        "prepTime": 10,
-        "cookTime": 15,
-        "servings": 4,
+        "prepTime": 15,
+        "cookTime": 20,
+        "servings": 5,
         "tags": [
             "DINNER",
-            "MEXICAN"
+            "MEXICAN",
+            "QUICK"
         ],
         "heaviness": "MEDIUM",
-        "calories": 350
+        "calories": 380
     }
 ]
